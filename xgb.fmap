@@ -1,0 +1,8 @@
+0	Pclass	q
+1	Sex	q
+2	Age	q
+3	SibSp	q
+4	Parch	q
+5	Fare	q
+6	Embarked	q
+7	Survived	q
